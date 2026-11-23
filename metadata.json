@@ -1,0 +1,6 @@
+{
+  "name": "Africa Entrepreneur",
+  "description": "Plateforme iOS, Android et web chiffrée de bout en bout pour les entrepreneurs d'Afrique et de la diaspora : événements, réseaux professionnels et réseautage multimodal hors ligne et en ligne.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1623 @@
+{
+  "members": [
+    {
+      "id": "u-amina",
+      "email": "amina@africaentrepreneur.com",
+      "emailVerified": true,
+      "fullName": "Amina Diallo",
+      "role": "subscriber",
+      "subscriptionStatus": "active",
+      "subscriptionPlan": "annual",
+      "subscriptionStart": "2026-09-01T09:00:00.000Z",
+      "subscriptionEnd": "2027-09-01T09:00:00.000Z",
+      "country": "Sénégal",
+      "city": "Dakar",
+      "language": "fr",
+      "avatarUrl": "/src/assets/images/avatar_amina_1795137734029.jpg",
+      "publicKeyJwk": {
+        "key_ops": [],
+        "ext": true,
+        "kty": "EC",
+        "x": "YZNqtacWuLCM-mPSmA1xfRBWcQKGJWYCUQUgJtApEjY",
+        "y": "amK9oE1Wy73gEcER7BNs2EW4raHq795Z3GYs-AzdHwY",
+        "crv": "P-256"
+      },
+      "wrappedPrivateKey": {
+        "ciphertext": "px46E10mVJI2R3t8/SDmmXCCnJQYJzitdboNiK1FnLNGSZimTG/w1SjPdhYUxnny0wkwKLk+CW/Nw6gpmi6c6oKud9EunXcQJ5KrzHzqLwL/nHihG5e8+ldE9EHjsS5OWZ+YB28+7XFDAnBfJwB8SsZLTmqBPrv+Kwg5f5s9rV77aaNXpyzH0fPkY6drg6Ua5qbuWYFfEYkZZdSj3k7OXmsJwvRFAY9wdb7uTKevaDjxrEUPShG+xLSbuNd+afCfG+kX/zg/Bj+GgqvEESkpdvrsVq1bJWikWXamzzTawdIBcoSYuJP6y4z0jjtIJ8kP",
+        "iv": "DKjpcs3YtRRv+JFE",
+        "salt": "UFdn9ZzajUoyufjSZkMAuw==",
+        "iterations": 10000
+      },
+      "keyFingerprint": "F9AD·802D·43AD·8D2E",
+      "visibility": "public_subscribers",
+      "notificationsEnabled": true,
+      "createdAt": "2026-09-01T09:00:00.000Z",
+      "passwordHash": "8640f4cbe23573dfdf1a0d8e121c67f5cc8bacf5bfec077aeb9faa6ca403606e37015bb1b7254794576c17a22d997a87abbb23661f0d261946571f969bb6668f",
+      "passwordSalt": "b7de7a633b958751c2dea853331dbde2",
+      "autoRenew": true,
+      "profileViews": 65,
+      "favoriteEventIds": [],
+      "calendarSyncEnabled": true,
+      "calendarSyncScope": "all_saved",
+      "calendarLastSyncedAt": "2026-11-20T14:52:32.960Z"
+    },
+    {
+      "id": "u-kwame",
+      "email": "kwame@africaentrepreneur.com",
+      "emailVerified": true,
+      "fullName": "Kwame Mensah",
+      "role": "subscriber",
+      "subscriptionStatus": "active",
+      "subscriptionPlan": "monthly",
+      "subscriptionStart": "2026-11-01T09:00:00.000Z",
+      "subscriptionEnd": "2027-02-01T09:00:00.000Z",
+      "country": "Royaume-Uni",
+      "city": "Londres",
+      "language": "fr",
+      "avatarUrl": "/src/assets/images/avatar_kwame_1795137732755.jpg",
+      "publicKeyJwk": {
+        "key_ops": [],
+        "ext": true,
+        "kty": "EC",
+        "x": "gUpDKL4AcSDJt_1xXExxVbYOXN91FjITZMFtPqgA470",
+        "y": "73ToFuoWMvJVqZMJ3icuLCxYCJAx_NmdnnYGXQ65EvI",
+        "crv": "P-256"
+      },
+      "wrappedPrivateKey": {
+        "ciphertext": "CVYgQTasXQIadTFCcBaoH0vBx6b2w2Afrhygs//dYaIPyvAojunEIzlybEM6DyhybwaaRjUNGsYBSFLXuLkZT9Tq6DSRylHabgwGLEmGty5vq0b9Iva77WkIwSU7po+QO1Z1nUhejq2ZRAzY5wRyfc0jAojc750GGJIUla++HPv+p0rRx6IL9Hu+ohxUJKmiauW2f8MgElWSLS3inhiUZt35tI/D/o7y9rfLZDr0RKM6i7wnl7mezTMHxG5broRbosER/MrFy/Rlex8/wxiLb94Gx9bHa1ZoJwgnw8z08D7xs/yLAvV3cLYG50bJQCdw",
+        "iv": "rkyG44APwaJu3is4",
+        "salt": "7/MspN32fSWRfJsHRWnQUA==",
+        "iterations": 10000
+      },
+      "keyFingerprint": "55BB·0406·12DE·E12E",
+      "visibility": "public_subscribers",
+      "notificationsEnabled": true,
+      "createdAt": "2026-09-15T10:00:00.000Z",
+      "passwordHash": "3503bd848d93749c78984372f73fa8ed530bdc50ff3be683e008c365b53b84267bcc3e7becc3d7f090a0d149a37c276ed43a224fbda54f988c74bafdfd17a43c",
+      "passwordSalt": "3e795ee3899ad12e2e3cf908ae29df4e",
+      "autoRenew": true,
+      "profileViews": 68,
+      "favoriteEventIds": [],
+      "calendarSyncEnabled": false,
+      "calendarSyncScope": "all_saved"
+    },
+    {
+      "id": "u-moussa",
+      "email": "moussa@africaentrepreneur.com",
+      "emailVerified": true,
+      "fullName": "Moussa Konaté",
+      "role": "subscriber",
+      "subscriptionStatus": "active",
+      "country": "France",
+      "city": "Paris",
+      "language": "fr",
+      "publicKeyJwk": {
+        "key_ops": [],
+        "ext": true,
+        "kty": "EC",
+        "x": "1WGqPqvYZw3QO1U2TqzMJYw5-ccwVE8hj9zHAs3pM3Y",
+        "y": "LmJNQRevksmymBxVpDeK9fkegm6CDZw1GReX0m5c0AY",
+        "crv": "P-256"
+      },
+      "wrappedPrivateKey": {
+        "ciphertext": "SZo9HG4tA7sR7y1v+wHJEuy1SPdujeDi34AX6K7JIdH4/PWfwRxmtnDHQfBhO5CiAadnSf01me7+XXt6BfRSNo9f8T/XNSao52P7qu6a3exk7YUFl3lS+oydjHszYr28Av6WaYGy9smCUujRM74sIogJ/zaKaJXgi4mQfMAl/KzASqWz+VkbMzG21kpRTHVQw9kz4eT7cNu76FsbJj0Fwl6gvuLYK1I7pXOiCAvE4ddKeoLnp+GeDg0/t/7HFxZTzfctcANT3WFds2khpFk8CUSQpCHDpy0qHseNwKxVRydCKZATIfDRJfM7M0nIwLv2",
+        "iv": "epck3eRmHHPigwWV",
+        "salt": "TwgjD6U4j6pwaPjgG31EFg==",
+        "iterations": 10000
+      },
+      "keyFingerprint": "A015·2052·9770·44BB",
+      "visibility": "public_subscribers",
+      "notificationsEnabled": true,
+      "createdAt": "2026-11-10T11:00:00.000Z",
+      "passwordHash": "ef4a753e339dc9e42ffa78e23c818517215f26700338ef7489dd30508de3560922a783130d0d39e6f78dc78ef2506d2a66f06cad36406a9a191e1640953b3e15",
+      "passwordSalt": "7702c3304e450167736e15b464482588",
+      "subscriptionPlan": "annual",
+      "subscriptionStart": "2026-11-20T01:30:57.412Z",
+      "subscriptionEnd": "2027-11-20T01:30:57.412Z",
+      "autoRenew": true,
+      "profileViews": 65,
+      "favoriteEventIds": [],
+      "calendarSyncEnabled": false,
+      "calendarSyncScope": "all_saved"
+    },
+    {
+      "id": "u-admin",
+      "email": "admin@africaentrepreneur.com",
+      "emailVerified": true,
+      "fullName": "Nadia Bamba (Modération)",
+      "role": "admin",
+      "subscriptionStatus": "active",
+      "subscriptionPlan": "annual",
+      "subscriptionStart": "2026-01-01T00:00:00.000Z",
+      "subscriptionEnd": "2028-01-01T00:00:00.000Z",
+      "country": "Côte d’Ivoire",
+      "city": "Abidjan",
+      "language": "fr",
+      "publicKeyJwk": {
+        "key_ops": [],
+        "ext": true,
+        "kty": "EC",
+        "x": "Jm8zMfS49vrdaDt797I6ek4ovoVPRMA2BFxJbDbC6gI",
+        "y": "9fcVe0XEdNElOcvHlXwkdmo6kIzmxcdNQjK_5ptKRhU",
+        "crv": "P-256"
+      },
+      "wrappedPrivateKey": {
+        "ciphertext": "jFoy6Gno0dRrZVzA8n5q1hkTpxYOAtox2/XtP4pb8cB0Zv4dFnWiQ+VzjqQtymOsg3WJeATfTVW3vi/rN8FrBaN5gX97y1Z93mOGMrvGZbqmXRhdpSX2xCT+Spa78F5YxjfybILHc8oP0Sqw0iEbVRAGNFGi2TeM1sQxZP6XWTnsnsB/0YBUfPmCLXLU1RgAD95aorr4mDLsQ49+1C297nOZvzc2Tj6EyScCbgvm+ESiLZaz/25UdsdUqQo6BN1WIXg/9I8Xv+Av88IxH/GF5wxPT/im2OlSpZVcUsJhK0Z3DMPW4WDnZDKjwUbjZpHF",
+        "iv": "tvC4tH++1NxR+gHR",
+        "salt": "aDOeBek940c6fdHN5gxTKg==",
+        "iterations": 10000
+      },
+      "keyFingerprint": "1BAC·47D3·B9AE·7B4D",
+      "visibility": "connections_only",
+      "notificationsEnabled": true,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "passwordHash": "671e4211fd03a769958e40bf7b8eb7389d47ac46c2d57dfbfa7e7bfb523fb9ec18fc92fc9b68eaf3591585745e6b50202e733f412a15f6a6a1f8a202c003ee63",
+      "passwordSalt": "1cb8e63af19911431ed20828714a27ed",
+      "autoRenew": true,
+      "profileViews": 65,
+      "favoriteEventIds": [],
+      "calendarSyncEnabled": false,
+      "calendarSyncScope": "all_saved"
+    },
+    {
+      "id": "u-fatou",
+      "email": "fatou@africaentrepreneur.com",
+      "emailVerified": true,
+      "fullName": "Fatou Ndiaye",
+      "role": "subscriber",
+      "subscriptionStatus": "active",
+      "subscriptionPlan": "annual",
+      "subscriptionStart": "2026-10-01T08:00:00.000Z",
+      "subscriptionEnd": "2027-10-01T08:00:00.000Z",
+      "country": "Canada",
+      "city": "Montréal",
+      "language": "fr",
+      "publicKeyJwk": {
+        "key_ops": [],
+        "ext": true,
+        "kty": "EC",
+        "x": "Wr7nkl8WB-4rvzO6FanM0O14iXB5k_he2vIepQi-ECo",
+        "y": "2eUymasWnpYOE1dBvHX6-UUgbkzNgwCQyQN-4L_zD5k",
+        "crv": "P-256"
+      },
+      "wrappedPrivateKey": {
+        "ciphertext": "jxQwdzr6c5TNqFHaazyJYVxnQk+raAgDOSUSlXhkSEaY5nWvXU/83cIDKS6Is+RJ6PeKCkNEya/i9cIKjJ4NFAAxA7nFkP80lWLvHFUkd3cYAgzXbdklb8SR9HgHxVInOp0RbiYz2R2uY1Oql9zjRt9PlxiuMmOrRTH32Mo+8Sx5UXglfT1y/9b0R/a33XYfeodMXlvsej1+qYEoAj/VzJXsqVH8+Is1WgOHPVs+4yqHC48vd0ZoiV1Mak/Eve46Q/Z3vvbDFq18IIc9scGOq90oAvZJ27qtMvqNRiZ7+yKOthHYwn63eox31SGYsHqr",
+        "iv": "mQPPR+/BTIixSdrd",
+        "salt": "yip3XH3sq6yDV/57ivI+Tw==",
+        "iterations": 10000
+      },
+      "keyFingerprint": "B303·1A73·483F·8A34",
+      "visibility": "public_subscribers",
+      "notificationsEnabled": true,
+      "createdAt": "2026-10-01T08:00:00.000Z",
+      "passwordHash": "38ffdf92b72c6cf8d1b4ca625e22acb501b37c0a3819642f58a090ce632844eb1355b0e2b67fe2e438949cca82b2718d88721c7d8be61eda4c8b63aa5716bed5",
+      "passwordSalt": "cfc23f0501bda0a33cef27bfd7913082",
+      "avatarUrl": "/src/assets/images/avatar_fatou_1795139287344.jpg",
+      "autoRenew": true,
+      "profileViews": 65,
+      "favoriteEventIds": [],
+      "calendarSyncEnabled": false,
+      "calendarSyncScope": "all_saved"
+    },
+    {
+      "id": "u-chidi",
+      "email": "chidi@africaentrepreneur.com",
+      "emailVerified": true,
+      "fullName": "Chidi Okonkwo",
+      "role": "subscriber",
+      "subscriptionStatus": "active",
+      "subscriptionPlan": "monthly",
+      "subscriptionStart": "2026-11-05T08:00:00.000Z",
+      "subscriptionEnd": "2027-01-05T08:00:00.000Z",
+      "country": "Nigeria",
+      "city": "Lagos",
+      "language": "en",
+      "publicKeyJwk": {
+        "key_ops": [],
+        "ext": true,
+        "kty": "EC",
+        "x": "fiNTiIw11D57GxFCZiWR7Nb7YqyjApqVMllkR2zIl1k",
+        "y": "CGHxz2asRHND3kxrYqDw99R0iKEAoPaA7xNNe1jFtCk",
+        "crv": "P-256"
+      },
+      "wrappedPrivateKey": {
+        "ciphertext": "hIhkUwkiZuc5YCGzVs7v5EI/MNB9awvFUT6QJwso6TiCeniKmf1ENwY/J3dS18CDNiwaSSklaDItRqHOQYunBfahqkqg6oaDGcsRl/RnqkqdnqY+pJKb7bnlPX5riQFu5l7qRUS7xn9YDJJoEYcNlM8J2b7Y37LRRh/TuI9iwL8qcUfVKABqw8yjn0UXIN4giELpZZxXXjmN69ukJ8q0klcwS7I1p2QlMrzkNBoHNXuqiTDj/ozLg4BT6q7YyT2Z7upmtIsGv3OA8tCEiFnoiLf4Z5HVZ9Hs8Qj3fdtcHDFDGRYZO5itjA0cdY1qefK9",
+        "iv": "qs7ah9K3o9l7bcJz",
+        "salt": "j3qxWqtUV/r3jsg3+B+mGQ==",
+        "iterations": 10000
+      },
+      "keyFingerprint": "0312·EA78·9F31·140E",
+      "visibility": "public_subscribers",
+      "notificationsEnabled": true,
+      "createdAt": "2026-11-05T08:00:00.000Z",
+      "passwordHash": "273cbaed173b9edd6c758fac0e8faa8fcb9b4c31474a927498c3ce10e8f004593ccc1d371e67b07525d38801566660caa571f70dc22c2e62527b4765aec0807d",
+      "passwordSalt": "467a255cde2b8383061d85af19aaea40",
+      "avatarUrl": "/src/assets/images/avatar_chidi_1795139287332.jpg",
+      "autoRenew": true,
+      "profileViews": 65,
+      "favoriteEventIds": [],
+      "calendarSyncEnabled": false,
+      "calendarSyncScope": "all_saved"
+    },
+    {
+      "id": "u-orga",
+      "email": "orga@africaentrepreneur.com",
+      "emailVerified": true,
+      "fullName": "Seydou Keïta (Organisateur)",
+      "role": "organizer",
+      "subscriptionStatus": "active",
+      "subscriptionPlan": "annual",
+      "subscriptionStart": "2026-08-01T08:00:00.000Z",
+      "subscriptionEnd": "2027-08-01T08:00:00.000Z",
+      "autoRenew": true,
+      "country": "Côte d’Ivoire",
+      "city": "Abidjan",
+      "language": "fr",
+      "publicKeyJwk": {
+        "key_ops": [],
+        "ext": true,
+        "kty": "EC",
+        "x": "73rXVz3LAQwZaqBDHBeH6yUoHd8LfelpfZpigie14XE",
+        "y": "Hm-zkGSos8vQByAF2P8ivLmxqrkUs82y-qhLILt6EKw",
+        "crv": "P-256"
+      },
+      "wrappedPrivateKey": {
+        "ciphertext": "TPVm/tVObnJeUIflUvE61P4WSHwBIxedB7+IKjlpXaV7QhxCJ9X4oxVtsSsfDEH6DpG9/ENHFA+M3iNrdW8BcYe3ZBo0chdTnRPZkdQm4/UyM+hD3KQPGI6qdiNEkCsYPpnnZK6ij5RPNuXBkML5iXhJlct+eE2EApfvgJlqKPk4qy//UDmsTF7umA+V/DwxMUcVo/w7gGK0ciqbVyK/URC42Y6uDLY3RVCeJ4hip/jcQEyA70Ce5Pf75moRH2aLipBmGxAxnoEwK8msk4nZAiUR4x5XMUXVmbZ83DVxzmMv/F/qvT2Ke8FFSLlRoW83",
+        "iv": "nxDl8jOGUr/h9hOh",
+        "salt": "+XvNiTl4VqnVnB34SxYRDw==",
+        "iterations": 10000
+      },
+      "keyFingerprint": "2D5A·468A·6306·0164",
+      "visibility": "public_subscribers",
+      "notificationsEnabled": true,
+      "profileViews": 76,
+      "createdAt": "2026-08-01T08:00:00.000Z",
+      "passwordHash": "37c82a77a94a23d0b1c97586cfb55114be3096ab0eb8beffaeb2f360a49c18f3cf22ee1437e70e357d18f992862f6ab9ce2c8883d5d32f4f1a9e485861180c89",
+      "passwordSalt": "a1e76a45ee8d40959a9c9734fafcb9f0",
+      "favoriteEventIds": [],
+      "calendarSyncEnabled": false,
+      "calendarSyncScope": "all_saved"
+    }
+  ],
+  "profiles": [
+    {
+      "memberId": "u-amina",
+      "headline": "Fondatrice & CEO — Paiements transfrontaliers UEMOA",
+      "bio": "Nous simplifions les encaissements B2B entre la diaspora européenne et les PME d’Afrique de l’Ouest. Ouverte aux partenariats bancaires et co-investisseurs.",
+      "sectors": [
+        "Fintech",
+        "Paiements B2B"
+      ],
+      "skills": [
+        "Stratégie Réglementaire BCEAO",
+        "Architecture Paiement",
+        "Levée Série A"
+      ],
+      "activeCountries": [
+        "Sénégal",
+        "Côte d’Ivoire",
+        "France"
+      ],
+      "languages": [
+        "Français",
+        "Anglais",
+        "Wolof"
+      ],
+      "collaborationNeeds": [
+        "Co-investissement",
+        "Partenaires Distribution"
+      ],
+      "updatedAt": "2026-11-20T14:52:32.985Z"
+    },
+    {
+      "memberId": "u-kwame",
+      "headline": "Associé Gérant — Capital-risque Diaspora & Amorçage",
+      "bio": "Fonds d’amorçage dédié aux infrastructures logistiques, énergie propre et logiciels B2B entre Londres, Accra et Abidjan.",
+      "sectors": [
+        "Capital-Risque",
+        "Logistique"
+      ],
+      "skills": [
+        "Due Diligence",
+        "Structuration Financière",
+        "Expansion Marché"
+      ],
+      "activeCountries": [
+        "Royaume-Uni",
+        "Ghana",
+        "Côte d’Ivoire"
+      ],
+      "languages": [
+        "Français",
+        "Anglais"
+      ],
+      "collaborationNeeds": [
+        "Deal-flow Qualifié",
+        "Co-investisseurs"
+      ],
+      "updatedAt": "2026-11-12T15:00:00.000Z"
+    },
+    {
+      "memberId": "u-moussa",
+      "headline": "Consultant Export & Agro-Transformation",
+      "bio": "Accompagnement des coopératives agricoles vers les marchés européens et certification biologique.",
+      "sectors": [
+        "Agro-industrie",
+        "Export"
+      ],
+      "skills": [
+        "Supply Chain",
+        "Certification UE"
+      ],
+      "activeCountries": [
+        "France",
+        "Mali",
+        "Sénégal"
+      ],
+      "languages": [
+        "Français"
+      ],
+      "collaborationNeeds": [
+        "Clients B2B",
+        "Mentorat"
+      ],
+      "updatedAt": "2026-11-10T11:00:00.000Z"
+    },
+    {
+      "memberId": "u-fatou",
+      "headline": "Directrice Produit IA & EdTech — Montréal / Dakar",
+      "bio": "Plateformes de formation professionnelle certifiante adaptées aux connexions bas débit en Afrique francophone.",
+      "sectors": [
+        "EdTech",
+        "Intelligence Artificielle"
+      ],
+      "skills": [
+        "Produit Mobile Offline",
+        "Partenariats Institutionnels"
+      ],
+      "activeCountries": [
+        "Canada",
+        "Sénégal",
+        "Rwanda"
+      ],
+      "languages": [
+        "Français",
+        "Anglais"
+      ],
+      "collaborationNeeds": [
+        "Partenaires Techniques",
+        "Distribution"
+      ],
+      "updatedAt": "2026-11-14T09:30:00.000Z"
+    },
+    {
+      "memberId": "u-chidi",
+      "headline": "Co-fondateur — Alara Venture Studio Lagos",
+      "bio": "Studio de création de startups Fintech et Commerce B2B opérant au Nigeria et en Afrique de l’Est.",
+      "sectors": [
+        "Fintech",
+        "Commerce B2B"
+      ],
+      "skills": [
+        "Ingénierie Core Banking",
+        "Croissance B2B"
+      ],
+      "activeCountries": [
+        "Nigeria",
+        "Kenya"
+      ],
+      "languages": [
+        "Anglais",
+        "Français"
+      ],
+      "collaborationNeeds": [
+        "Partenaires Francophones",
+        "Investisseurs"
+      ],
+      "updatedAt": "2026-11-16T14:00:00.000Z"
+    }
+  ],
+  "enterprises": [
+    {
+      "id": "ent-payteranga",
+      "ownerId": "u-amina",
+      "name": "PayTeranga SAS",
+      "description": "Infrastructure de règlement instantané multi-devises EUR/XOF pour PME exportatrices et prestataires de services.",
+      "sector": "Fintech",
+      "country": "Sénégal",
+      "city": "Dakar",
+      "services": [
+        "API Encaissement B2B",
+        "Trésorerie Multi-devises",
+        "Conformité KYC/AML"
+      ],
+      "websiteUrl": "https://payteranga.example.com",
+      "linkedinUrl": "https://linkedin.com/company/payteranga",
+      "verified": true
+    },
+    {
+      "id": "ent-diasporavc",
+      "ownerId": "u-kwame",
+      "name": "Diaspora Ventures Partners",
+      "description": "Véhicule d’investissement seed & pre-seed reliant les capitaux de la diaspora aux bâtisseurs technologiques africains.",
+      "sector": "Capital-Risque",
+      "country": "Royaume-Uni",
+      "city": "Londres",
+      "services": [
+        "Tickets 50k–400k €",
+        "Programme Go-to-Market Europe/Afrique"
+      ],
+      "websiteUrl": "https://diasporaventures.example.com",
+      "verified": true,
+      "viewsCount": 3
+    },
+    {
+      "id": "ent-alara",
+      "ownerId": "u-chidi",
+      "name": "Alara Venture Studio",
+      "description": "Venture studio accompagnant les fondateurs Fintech de l’idée au premier million de volume mensuel.",
+      "sector": "Fintech",
+      "country": "Nigeria",
+      "city": "Lagos",
+      "services": [
+        "Co-fondation technique",
+        "Accès licence PSP"
+      ],
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-dakar",
+      "organizerId": "u-admin",
+      "organizerName": "Africa Entrepreneur · Sommets",
+      "title": "Dakar Business Summit 2026",
+      "publicSummary": "Rencontre annuelle des fondateurs Fintech, investisseurs diaspora et institutions financières d’Afrique de l’Ouest.",
+      "fullDescription": "Deux jours de tables rondes à huis clos, sessions de deal-room 1-à-1 entre fondateurs Série A et fonds diaspora, et ateliers sur l’interopérabilité des paiements UEMOA. Inclut l’accès au salon investisseurs et au dîner exécutif sur la Corniche.",
+      "dateIso": "2026-12-14T09:00:00.000Z",
+      "country": "Sénégal",
+      "city": "Dakar",
+      "sector": "Fintech",
+      "format": "hybrid",
+      "venueAddress": "Pavillon Corniche Ouest, Route des Almadies, Dakar",
+      "virtualLink": "https://visio.africaentrepreneur.com/room/dakar-summit-2026",
+      "capacity": 120,
+      "registeredCount": 85,
+      "feeEur": 0,
+      "imageUrl": "/src/assets/images/event_dakar_summit_1795137733263.jpg",
+      "status": "published",
+      "highlights": [
+        "18 fonds d’investissement actifs Afrique & Europe présents",
+        "Sessions de pitch privées de 15 minutes pré-planifiées",
+        "Traduction simultanée Français / Anglais incluse"
+      ]
+    },
+    {
+      "id": "evt-paris",
+      "organizerId": "u-admin",
+      "organizerName": "Cercle Diaspora Europe",
+      "title": "Forum Diaspora Executive Paris",
+      "publicSummary": "Soirée exécutive de mise en relation entre dirigeants de la diaspora en Europe et porteurs de projets industriels.",
+      "fullDescription": "Rencontre stratégique réunissant 80 décideurs, dirigeants de PME et business angels basés à Paris, Bruxelles et Londres. Focus sur le co-investissement industriel, l’énergie décentralisée et les chaînes d’approvisionnement Afrique-Europe.",
+      "dateIso": "2026-12-22T18:30:00.000Z",
+      "country": "France",
+      "city": "Paris",
+      "sector": "Capital-Risque",
+      "format": "in_person",
+      "venueAddress": "Salon Haussmann Panorama, 42 Boulevard Haussmann, 75009 Paris",
+      "virtualLink": "",
+      "capacity": 80,
+      "registeredCount": 62,
+      "feeEur": 35,
+      "imageUrl": "/src/assets/images/event_paris_diaspora_1795137736001.jpg",
+      "status": "published",
+      "highlights": [
+        "Rencontres qualifiées par secteur avant l’événement",
+        "Cocktail dînatoire & présentation de 6 projets vérifiés"
+      ]
+    },
+    {
+      "id": "evt-lagos",
+      "organizerId": "u-admin",
+      "organizerName": "Alara Venture Studio",
+      "title": "Lagos Fintech & Venture Studio Day",
+      "publicSummary": "Immersion pratique au cœur de l’écosystème Fintech de Lagos : paiements, crédit PME et expansion francophone.",
+      "fullDescription": "Journée dédiée aux ponts technologiques et commerciaux entre le Nigeria et l’espace UEMOA/CEMAC. Démonstrations techniques, revue réglementaire et rencontres directes avec les équipes produit d’Alara.",
+      "dateIso": "2027-01-16T10:00:00.000Z",
+      "country": "Nigeria",
+      "city": "Lagos",
+      "sector": "Fintech",
+      "format": "in_person",
+      "venueAddress": "Alara Studio, Victoria Island, Plot 14 Adeola Odeku, Lagos",
+      "virtualLink": "",
+      "capacity": 60,
+      "registeredCount": 41,
+      "feeEur": 0,
+      "imageUrl": "/src/assets/images/event_lagos_fintech_1795137735619.jpg",
+      "status": "published",
+      "highlights": [
+        "Table ronde expansion Lagos → Abidjan & Dakar",
+        "Clinique architecture API & conformité transfrontalière"
+      ]
+    },
+    {
+      "id": "evt-abidjan",
+      "organizerId": "u-orga",
+      "organizerName": "Réseau Agro-Industrie CI",
+      "title": "Abidjan AgriTech & Export Connect",
+      "publicSummary": "Webinaire opérationnel sur le financement des chaînes agricoles et la transformation locale en Côte d’Ivoire.",
+      "fullDescription": "Session en ligne interactive avec les acteurs de la transformation cacao/anacarde, fournisseurs d’équipements solaires agricoles et acheteurs européens.",
+      "dateIso": "2027-01-28T15:00:00.000Z",
+      "country": "Côte d’Ivoire",
+      "city": "Abidjan",
+      "sector": "Agro-industrie",
+      "format": "virtual",
+      "venueAddress": "En ligne (lien sécurisé fourni aux inscrits)",
+      "virtualLink": "https://visio.africaentrepreneur.com/room/abidjan-agritech",
+      "capacity": 200,
+      "registeredCount": 112,
+      "feeEur": 0,
+      "status": "published",
+      "highlights": [
+        "Contrats d’approvisionnement directs avec acheteurs UE",
+        "Replay chiffré accessible 30 jours aux abonnés inscrits"
+      ],
+      "imageUrl": "/src/assets/images/event_abidjan_agritech_1795139286689.jpg"
+    },
+    {
+      "id": "evt-kigali",
+      "organizerId": "u-orga",
+      "organizerName": "Kigali Innovation Alliance",
+      "title": "Kigali DeepTech & Cloud Africa Forum",
+      "publicSummary": "Rencontre des fondateurs Tech, éditeurs SaaS et ingénieurs IA d’Afrique de l’Est et de la diaspora.",
+      "fullDescription": "Ateliers d’architecture cloud souveraine, souveraineté des données, démos produit en direct et rendez-vous B2B avec des intégrateurs basés au Rwanda, Kenya et Canada.",
+      "dateIso": "2027-02-04T09:00:00.000Z",
+      "country": "Rwanda",
+      "city": "Kigali",
+      "sector": "Tech",
+      "format": "hybrid",
+      "venueAddress": "Kigali Innovation City, Special Economic Zone, Kigali",
+      "virtualLink": "https://visio.africaentrepreneur.com/room/kigali-tech-2027",
+      "capacity": 150,
+      "registeredCount": 94,
+      "feeEur": 0,
+      "imageUrl": "/src/assets/images/event_kigali_tech_1795356687566.jpg",
+      "status": "published",
+      "highlights": [
+        "Déploiements IA & SaaS bas débit sur le continent",
+        "Rencontres partenaires techniques Kigali ↔ Montréal"
+      ]
+    },
+    {
+      "id": "evt-nairobi",
+      "organizerId": "u-orga",
+      "organizerName": "East Africa Agribusiness Hub",
+      "title": "Nairobi Sustainable Agriculture & Cold-Chain Summit",
+      "publicSummary": "Solutions agricoles climat-intelligentes, chaîne du froid solaire et financement des coopératives.",
+      "fullDescription": "Connectez vos exploitations, coopératives et startups agricoles aux fournisseurs de micro-irrigation, traçabilité blockchain et acheteurs internationaux.",
+      "dateIso": "2027-02-12T08:30:00.000Z",
+      "country": "Kenya",
+      "city": "Nairobi",
+      "sector": "Agriculture",
+      "format": "in_person",
+      "venueAddress": "Kenyatta International Convention Centre, Harambee Ave, Nairobi",
+      "virtualLink": "",
+      "capacity": 140,
+      "registeredCount": 88,
+      "feeEur": 25,
+      "imageUrl": "/src/assets/images/event_nairobi_agriculture_1795356687671.jpg",
+      "status": "published",
+      "highlights": [
+        "Pavillon équipements solaires agricoles & serres modulaires",
+        "Contrats d’exportation directe vers Europe & Golfe"
+      ]
+    },
+    {
+      "id": "evt-marrakech",
+      "organizerId": "u-orga",
+      "organizerName": "Maison Artisanat & Export",
+      "title": "Marrakech Artisanat, Savoir-Faire & Export Showcase",
+      "publicSummary": "Vitrine B2B pour ateliers d’artisanat d’art, cuir, textile, céramique et acheteurs internationaux.",
+      "fullDescription": "Showroom privé réunissant maîtres-artisans du Maghreb et d’Afrique subsaharienne avec acheteurs de concept-stores, hôtellerie de luxe et distributeurs diaspora.",
+      "dateIso": "2027-02-20T10:00:00.000Z",
+      "country": "Maroc",
+      "city": "Marrakech",
+      "sector": "Artisanat",
+      "format": "hybrid",
+      "venueAddress": "Dar Artisans & Design Hub, Avenue Mohammed VI, Marrakech",
+      "virtualLink": "https://visio.africaentrepreneur.com/room/marrakech-artisanat",
+      "capacity": 90,
+      "registeredCount": 57,
+      "feeEur": 20,
+      "imageUrl": "/src/assets/images/event_morocco_artisanat_1795356687577.jpg",
+      "status": "published",
+      "highlights": [
+        "Logistique export certifiée & packaging premium",
+        "Commandes groupées hôtellerie Afrique & Europe"
+      ]
+    },
+    {
+      "id": "evt-accra",
+      "organizerId": "u-admin",
+      "organizerName": "Diaspora Creative Production",
+      "title": "Accra Événementiel, Culture & Festivals Business Forum",
+      "publicSummary": "Forum professionnel de l’événementiel, production scénique, billetterie et tourisme d’affaires.",
+      "fullDescription": "Rassemblez agences événementielles, régisseurs, prestataires audiovisuels et sponsors diaspora préparant la saison des sommets et festivals en Afrique de l’Ouest.",
+      "dateIso": "2027-03-03T11:00:00.000Z",
+      "country": "Ghana",
+      "city": "Accra",
+      "sector": "Événementiel",
+      "format": "in_person",
+      "venueAddress": "Osu Creative Convention District, Oxford Street, Accra",
+      "virtualLink": "",
+      "capacity": 110,
+      "registeredCount": 73,
+      "feeEur": 15,
+      "imageUrl": "/src/assets/images/hero_diaspora_lounge_1795139287796.jpg",
+      "status": "published",
+      "highlights": [
+        "Bourse aux prestataires scéniques, son & lumière",
+        "Co-production d’événements diaspora Londres / Accra / Abidjan"
+      ]
+    },
+    {
+      "id": "evt-casablanca",
+      "organizerId": "u-orga",
+      "organizerName": "BTT & Infrastructures Afrique",
+      "title": "Casablanca BTT, Chantiers & Infrastructures Durables",
+      "publicSummary": "Rencontres d’affaires BTT, génie civil, matériaux locaux et partenariats maîtrise d’ouvrage.",
+      "fullDescription": "Networking ciblé entre entreprises générales de BTT, bureaux d’études structure, fournisseurs d’acier/béton bas-carbone et promoteurs panafricains.",
+      "dateIso": "2027-03-11T09:00:00.000Z",
+      "country": "Maroc",
+      "city": "Casablanca",
+      "sector": "BTT",
+      "format": "in_person",
+      "venueAddress": "Anfa Finance & Construction Center, Boulevard d’Anfa, Casablanca",
+      "virtualLink": "",
+      "capacity": 130,
+      "registeredCount": 79,
+      "feeEur": 30,
+      "imageUrl": "/src/assets/images/event_dakar_summit_1795137733263.jpg",
+      "status": "published",
+      "highlights": [
+        "Appels d’offres privés logements & zones industrielles",
+        "Consortiums conjoints Afrique du Nord — Afrique de l’Ouest"
+      ]
+    },
+    {
+      "id": "evt-addis",
+      "organizerId": "u-orga",
+      "organizerName": "Pan-African Architecture Collective",
+      "title": "Addis-Abeba Architecture Bioclimatique & Urbanisme",
+      "publicSummary": "Colloque d’architectes, urbanistes et bureaux d’études concevant les villes africaines de demain.",
+      "fullDescription": "Exposition de maquettes, conférences sur l’architecture bioclimatique, brique de terre compressée et grands projets d’aménagement urbain durables.",
+      "dateIso": "2027-03-19T09:30:00.000Z",
+      "country": "Éthiopie",
+      "city": "Addis-Abeba",
+      "sector": "Architecture",
+      "format": "hybrid",
+      "venueAddress": "Bole Architecture Pavilion, Cameroon Street, Addis-Abeba",
+      "virtualLink": "https://visio.africaentrepreneur.com/room/addis-arch-2027",
+      "capacity": 100,
+      "registeredCount": 64,
+      "feeEur": 0,
+      "imageUrl": "/src/assets/images/event_kigali_tech_1795356687566.jpg",
+      "status": "published",
+      "highlights": [
+        "Concours d’architecture durable pour campus & pôles tech",
+        "Mise en réseau cabinets Addis, Dakar, Nairobi & Paris"
+      ]
+    },
+    {
+      "id": "evt-douala",
+      "organizerId": "u-admin",
+      "organizerName": "Studio Afrique Design",
+      "title": "Douala Design Industriel, Mobilier & Branding B2B",
+      "publicSummary": "Rencontre des studios de design produit, designers d’espace et marques africaines émergentes.",
+      "fullDescription": "Sessions de co-création, sourcing bois certifié & matériaux recyclés, packaging export et rencontres avec des directeurs artistiques de la diaspora.",
+      "dateIso": "2027-03-27T10:00:00.000Z",
+      "country": "Cameroun",
+      "city": "Douala",
+      "sector": "Design",
+      "format": "in_person",
+      "venueAddress": "Bonanjo Design Atelier, Rue Joss, Douala",
+      "virtualLink": "",
+      "capacity": 75,
+      "registeredCount": 48,
+      "feeEur": 0,
+      "imageUrl": "/src/assets/images/event_morocco_artisanat_1795356687577.jpg",
+      "status": "published",
+      "highlights": [
+        "Showroom mobilier contemporain & design industriel",
+        "Partenariats marques Afrique Centrale — Amérique du Nord"
+      ]
+    },
+    {
+      "id": "evt-montreal",
+      "organizerId": "u-admin",
+      "organizerName": "Hub Diaspora Amérique du Nord",
+      "title": "Montréal Tech, IA & Entrepreneuriat Diaspora",
+      "publicSummary": "Carrefour technologique reliant ingénieurs, fondateurs IA et investisseurs entre le Canada et l’Afrique.",
+      "fullDescription": "Démonstrations d’outils numériques, partenariats R&D universitaires, financement export et recrutement d’équipes hybrides Montréal–Dakar–Abidjan.",
+      "dateIso": "2027-04-06T14:00:00.000Z",
+      "country": "Canada",
+      "city": "Montréal",
+      "sector": "Tech",
+      "format": "hybrid",
+      "venueAddress": "Quartier de l’Innovation, 1250 Rue Guy, Montréal",
+      "virtualLink": "https://visio.africaentrepreneur.com/room/montreal-tech",
+      "capacity": 110,
+      "registeredCount": 68,
+      "feeEur": 0,
+      "imageUrl": "/src/assets/images/event_paris_diaspora_1795137736001.jpg",
+      "status": "published",
+      "highlights": [
+        "Ponts R&D Québec — Afrique francophone",
+        "Sessions mentorat produit & expansion B2B"
+      ]
+    },
+    {
+      "id": "evt-dubai",
+      "organizerId": "u-admin",
+      "organizerName": "Gulf-Africa Trade Council",
+      "title": "Dubaï BTT, Logistique & Investissements Afrique-Golfe",
+      "publicSummary": "Forum investisseurs et grands chantiers entre le Golfe, l’Afrique de l’Est et l’Afrique de l’Ouest.",
+      "fullDescription": "Table ronde infrastructure portuaire, BTT modulaire, logistique frigorifique et co-financement de projets énergétiques sur le continent africain.",
+      "dateIso": "2027-04-15T10:00:00.000Z",
+      "country": "Émirats arabes unis",
+      "city": "Dubaï",
+      "sector": "BTT",
+      "format": "in_person",
+      "venueAddress": "DIFC Gate District Business Lounge, Dubaï",
+      "virtualLink": "",
+      "capacity": 95,
+      "registeredCount": 54,
+      "feeEur": 45,
+      "imageUrl": "/src/assets/images/hero_diaspora_lounge_1795139287796.jpg",
+      "status": "published",
+      "highlights": [
+        "Syndicats d’infrastructures Golfe ↔ Afrique",
+        "Rencontres directes maîtres d’ouvrage & promoteurs"
+      ]
+    },
+    {
+      "id": "evt-newyork",
+      "organizerId": "u-admin",
+      "organizerName": "Diaspora Design & Venture NY",
+      "title": "New York Afro-Design, Architecture & Creative Capital",
+      "publicSummary": "Édition nord-américaine réunissant architectes, designers, curateurs événementiels et fonds créatifs.",
+      "fullDescription": "Vitrine internationale de studios d’architecture, marques de design et producteurs événementiels connectant New York, Londres, Lagos et Johannesburg.",
+      "dateIso": "2027-04-22T17:30:00.000Z",
+      "country": "États-Unis",
+      "city": "New York",
+      "sector": "Design",
+      "format": "hybrid",
+      "venueAddress": "SoHo Creative Loft, 412 Broadway, New York",
+      "virtualLink": "https://visio.africaentrepreneur.com/room/ny-design-2027",
+      "capacity": 85,
+      "registeredCount": 52,
+      "feeEur": 30,
+      "imageUrl": "/src/assets/images/event_paris_diaspora_1795137736001.jpg",
+      "status": "published",
+      "highlights": [
+        "Commandes B2B architecture intérieure & hôtellerie",
+        "Réseau distribution États-Unis pour créateurs africains"
+      ]
+    }
+  ],
+  "networks": [
+    {
+      "id": "net-fintech",
+      "name": "Cercle Fintech UEMOA & Diaspora",
+      "publicSummary": "Collectif de fondateurs, responsables conformité et investisseurs bâtissant les rails financiers africains.",
+      "fullDescription": "Échanges mensuels confidentiels sur les agréments BCEAO/COBAC, partenariats bancaires correspondants en Europe et partage de retours d’expérience réglementaires.",
+      "countries": [
+        "Sénégal",
+        "Côte d’Ivoire",
+        "France",
+        "Royaume-Uni"
+      ],
+      "sectors": [
+        "Fintech",
+        "Paiements B2B"
+      ],
+      "contactEmail": "fintech-cercle@africaentrepreneur.com",
+      "memberCount": 148,
+      "status": "published",
+      "imageUrl": "/src/assets/images/event_lagos_fintech_1795137735619.jpg"
+    },
+    {
+      "id": "net-women",
+      "name": "Femmes Dirigeantes Afrique-Europe",
+      "publicSummary": "Réseau de dirigeantes et fondatrices développant des entreprises à fort impact entre le continent et la diaspora.",
+      "fullDescription": "Mentorat croisé entre CEO confirmées et créatrices d’entreprise, accès privilégié aux appels à projets et cercles d’entraide sectoriels.",
+      "countries": [
+        "Sénégal",
+        "Canada",
+        "France",
+        "Maroc"
+      ],
+      "sectors": [
+        "Tech",
+        "Industrie",
+        "Services"
+      ],
+      "contactEmail": "dirigeantes@africaentrepreneur.com",
+      "memberCount": 215,
+      "status": "published",
+      "imageUrl": "/src/assets/images/event_paris_diaspora_1795137736001.jpg"
+    },
+    {
+      "id": "net-angels",
+      "name": "Investisseurs & Business Angels Diaspora",
+      "publicSummary": "Syndicat de cadres et entrepreneurs de la diaspora co-investissant en amorçage sur des projets vérifiés.",
+      "fullDescription": "Accès à un flux mensuel de 4 dossiers audités, partage des mémos d’investissement et co-investissement dès 5 000 € par opération.",
+      "countries": [
+        "France",
+        "Royaume-Uni",
+        "Canada",
+        "États-Unis"
+      ],
+      "sectors": [
+        "Capital-Risque",
+        "Énergie",
+        "Logistique"
+      ],
+      "contactEmail": "angels@africaentrepreneur.com",
+      "memberCount": 94,
+      "status": "published",
+      "imageUrl": "/src/assets/images/event_dakar_summit_1795137733263.jpg"
+    },
+    {
+      "id": "net-agri",
+      "name": "Alliance Agriculture & Souveraineté Alimentaire",
+      "publicSummary": "Producteurs, agritech, coopératives et acheteurs structurant les chaînes agricoles africaines.",
+      "fullDescription": "Partage de fournisseurs d’équipements solaires, contrats d’exportation directe, financement d’intrants et certification qualité entre l’Afrique et la diaspora.",
+      "countries": [
+        "Côte d’Ivoire",
+        "Kenya",
+        "Éthiopie",
+        "Maroc",
+        "France",
+        "Pays-Bas"
+      ],
+      "sectors": [
+        "Agriculture",
+        "Agro-industrie"
+      ],
+      "contactEmail": "agri@africaentrepreneur.com",
+      "memberCount": 186,
+      "status": "published",
+      "imageUrl": "/src/assets/images/event_nairobi_agriculture_1795356687671.jpg"
+    },
+    {
+      "id": "net-btt-arch",
+      "name": "Consortium BTT, Génie Civil & Architecture Afrique",
+      "publicSummary": "Architectes, entrepreneurs BTT, bureaux d’études et promoteurs opérant sur tout le continent.",
+      "fullDescription": "Réponse conjointe aux appels d’offres d’infrastructures, partage de maîtres d’œuvre locaux certifiés, innovation matériaux bas-carbone et ingénierie bioclimatique.",
+      "countries": [
+        "Cameroun",
+        "Maroc",
+        "Sénégal",
+        "Afrique du Sud",
+        "Émirats arabes unis",
+        "Belgique"
+      ],
+      "sectors": [
+        "BTT",
+        "Architecture"
+      ],
+      "contactEmail": "btt-architecture@africaentrepreneur.com",
+      "memberCount": 132,
+      "status": "published",
+      "imageUrl": "/src/assets/images/event_kigali_tech_1795356687566.jpg"
+    },
+    {
+      "id": "net-artisanat-design",
+      "name": "Guilde Artisanat, Design & Événementiel Global",
+      "publicSummary": "Ateliers d’artisanat d’excellence, designers produit et agences événementielles Afrique-Diaspora.",
+      "fullDescription": "Accès aux salons internationaux, regroupement logistique export, co-production de festivals et commandes B2B pour l’hôtellerie et le retail mondial.",
+      "countries": [
+        "Maroc",
+        "Ghana",
+        "Cameroun",
+        "Tunisie",
+        "États-Unis",
+        "Royaume-Uni",
+        "Brésil"
+      ],
+      "sectors": [
+        "Artisanat",
+        "Design",
+        "Événementiel"
+      ],
+      "contactEmail": "design-artisanat@africaentrepreneur.com",
+      "memberCount": 174,
+      "status": "published",
+      "imageUrl": "/src/assets/images/event_morocco_artisanat_1795356687577.jpg"
+    },
+    {
+      "id": "net-tech-africa",
+      "name": "Réseau Tech & Innovation Panafricaine",
+      "publicSummary": "Fondateurs SaaS, ingénieurs cloud/IA et CTO reliant les hubs Tech africains et mondiaux.",
+      "fullDescription": "Entraide architecture logicielle, recrutement tech transcontinental, co-distribution B2B et veille technologique Kigali, Lagos, Nairobi, Le Cap, Montréal et Singapour.",
+      "countries": [
+        "Rwanda",
+        "Nigeria",
+        "Kenya",
+        "Afrique du Sud",
+        "Égypte",
+        "Canada",
+        "Allemagne",
+        "Singapour"
+      ],
+      "sectors": [
+        "Tech",
+        "EdTech",
+        "Intelligence Artificielle"
+      ],
+      "contactEmail": "tech@africaentrepreneur.com",
+      "memberCount": 240,
+      "status": "published",
+      "imageUrl": "/src/assets/images/event_kigali_tech_1795356687566.jpg"
+    },
+    {
+      "id": "net-gulf-asia",
+      "name": "Corridor Négoce & Industrie Afrique — Golfe — Asie",
+      "publicSummary": "Entrepreneurs et industriels de la diaspora actifs entre l’Afrique, Dubaï, la Chine et l’Inde.",
+      "fullDescription": "Sourcing industriel sécurisé, contrôle qualité usine, fret maritime/aérien et co-entreprises de transformation locale en Afrique.",
+      "countries": [
+        "Tanzanie",
+        "Angola",
+        "RD Congo",
+        "Émirats arabes unis",
+        "Chine",
+        "Inde",
+        "Turquie",
+        "Arabie saoudite"
+      ],
+      "sectors": [
+        "Industrie",
+        "Logistique",
+        "BTT"
+      ],
+      "contactEmail": "corridor-asia@africaentrepreneur.com",
+      "memberCount": 118,
+      "status": "published",
+      "imageUrl": "/src/assets/images/hero_diaspora_lounge_1795139287796.jpg"
+    }
+  ],
+  "registrations": [
+    {
+      "id": "reg-1",
+      "eventId": "evt-dakar",
+      "memberId": "u-amina",
+      "status": "confirmed",
+      "confirmationCode": "AE-DKR-8421",
+      "createdAt": "2026-11-12T10:20:00.000Z"
+    },
+    {
+      "id": "reg-5d439a47",
+      "eventId": "evt-dakar",
+      "memberId": "u-moussa",
+      "status": "confirmed",
+      "confirmationCode": "AE-DAK-2478",
+      "createdAt": "2026-11-20T01:30:58.447Z"
+    },
+    {
+      "id": "reg-2",
+      "eventId": "evt-abidjan",
+      "memberId": "u-amina",
+      "status": "confirmed",
+      "confirmationCode": "AE-ABI-4410",
+      "sessionSlot": "Deal-Room",
+      "createdAt": "2026-10-08T14:20:00.000Z"
+    },
+    {
+      "id": "reg-3",
+      "eventId": "evt-abidjan",
+      "memberId": "u-kwame",
+      "status": "confirmed",
+      "confirmationCode": "AE-ABI-5102",
+      "sessionSlot": "Atelier Export",
+      "createdAt": "2026-10-10T09:15:00.000Z"
+    }
+  ],
+  "payments": [
+    {
+      "id": "pay-44d1d199",
+      "memberId": "u-moussa",
+      "plan": "annual",
+      "amountEur": 180,
+      "currency": "EUR",
+      "status": "succeeded",
+      "paymentMethodLabel": "Carte •••• 4242",
+      "idempotencyKey": "sub-u-moussa-annual-179513825",
+      "receiptNumber": "REC-2026-3926",
+      "createdAt": "2026-11-20T01:30:57.412Z"
+    },
+    {
+      "id": "pay-2",
+      "memberId": "u-kwame",
+      "plan": "monthly",
+      "amountEur": 19,
+      "currency": "EUR",
+      "status": "succeeded",
+      "paymentMethodLabel": "Mastercard •••• 8562",
+      "idempotencyKey": "seed-pay-kwame-monthly",
+      "receiptNumber": "REC-2026-0412",
+      "createdAt": "2026-11-01T09:00:00.000Z"
+    },
+    {
+      "id": "pay-1",
+      "memberId": "u-amina",
+      "plan": "annual",
+      "amountEur": 180,
+      "currency": "EUR",
+      "status": "succeeded",
+      "paymentMethodLabel": "Visa •••• 4242",
+      "idempotencyKey": "seed-pay-amina-annual",
+      "receiptNumber": "REC-2026-0091",
+      "createdAt": "2026-09-01T09:00:00.000Z"
+    }
+  ],
+  "connections": [
+    {
+      "id": "conn-1",
+      "senderId": "u-kwame",
+      "recipientId": "u-amina",
+      "introMessage": "Bonjour Amina, impressionné par l’expansion de PayTeranga. Échangeons avant le sommet de Dakar.",
+      "status": "accepted",
+      "createdAt": "2026-11-10T14:00:00.000Z",
+      "updatedAt": "2026-11-10T16:15:00.000Z"
+    },
+    {
+      "id": "conn-2",
+      "senderId": "u-fatou",
+      "recipientId": "u-amina",
+      "introMessage": "Bonjour Amina ! Nous déployons nos modules EdTech hors ligne au Sénégal, ravi d’échanger.",
+      "status": "pending",
+      "createdAt": "2026-11-18T11:30:00.000Z",
+      "updatedAt": "2026-11-18T11:30:00.000Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-seed-1",
+      "conversationId": "u-amina__u-kwame",
+      "senderId": "u-kwame",
+      "recipientId": "u-amina",
+      "senderPubKey": {
+        "key_ops": [],
+        "ext": true,
+        "kty": "EC",
+        "x": "gUpDKL4AcSDJt_1xXExxVbYOXN91FjITZMFtPqgA470",
+        "y": "73ToFuoWMvJVqZMJ3icuLCxYCJAx_NmdnnYGXQ65EvI",
+        "crv": "P-256"
+      },
+      "envelope": {
+        "ciphertext": "1go28LPkn183rTek5fyjLisjhst5RRNGDZwXlsqtzIXx2JmYkBKXX5yZvHuz7toH9VKhW/2dIeh6ANWb6aAAkeM7yQx0LXW7ED+5F1Vf1Uf5vaP+XJZ845FiqjIcACIvsxsH97EaJ6bQOujc1gEBrAldhgJ/kGw7Yp1qkJ4sAIpGl0WhW7ing/vnItVfzEw+TIAlLaWl",
+        "iv": "qJtt6WYlu/LtVggG",
+        "alg": "AES-GCM-256",
+        "v": 1
+      },
+      "mediaType": "text",
+      "clientMutationId": "seed-msg-1",
+      "createdAt": "2026-11-18T09:15:00.000Z",
+      "readAt": "2026-11-20T10:06:11.511Z"
+    },
+    {
+      "id": "msg-seed-2",
+      "conversationId": "u-amina__u-kwame",
+      "senderId": "u-amina",
+      "recipientId": "u-kwame",
+      "senderPubKey": {
+        "key_ops": [],
+        "ext": true,
+        "kty": "EC",
+        "x": "YZNqtacWuLCM-mPSmA1xfRBWcQKGJWYCUQUgJtApEjY",
+        "y": "amK9oE1Wy73gEcER7BNs2EW4raHq795Z3GYs-AzdHwY",
+        "crv": "P-256"
+      },
+      "envelope": {
+        "ciphertext": "URYGIQKBhOtR4X/kHE4br9H2iUqtsywSg1J1nzUnt/xY5c4YMZLAGRathpAsHr9iPcGOgASn854/jICIfB6AZ8CjESKj2XNvxaCsU9KqHYy/WUNjGI7+PIdhGBehrKW1U5DVGuXt539OA5ii2in1APR641n3VXRDmdG23GJEtUCmefWBtqNpQMfDO4b7Ww==",
+        "iv": "CS48gB+29ZeuVJpC",
+        "alg": "AES-GCM-256",
+        "v": 1
+      },
+      "mediaType": "text",
+      "clientMutationId": "seed-msg-2",
+      "createdAt": "2026-11-18T09:24:00.000Z"
+    },
+    {
+      "id": "msg-4d730a99",
+      "conversationId": "u-amina__u-kwame",
+      "senderId": "u-amina",
+      "recipientId": "u-kwame",
+      "senderPubKey": {
+        "key_ops": [],
+        "ext": true,
+        "kty": "EC",
+        "x": "YZNqtacWuLCM-mPSmA1xfRBWcQKGJWYCUQUgJtApEjY",
+        "y": "amK9oE1Wy73gEcER7BNs2EW4raHq795Z3GYs-AzdHwY",
+        "crv": "P-256"
+      },
+      "envelope": {
+        "ciphertext": "uI1MB8AssA6KWQnp0+9QUEYD5e/i/zaNjFkPGyd2gJwh+nIi7IYYyxCVvkqeJPOUg7SxZvDZ4waep38rNQ==",
+        "iv": "R8svXborkY+n1Ui/",
+        "alg": "AES-GCM-256",
+        "v": 1
+      },
+      "mediaType": "text",
+      "clientMutationId": "msg-1795138262126-vbe9o",
+      "createdAt": "2026-11-20T01:31:02.130Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "memberId": "u-amina",
+      "kind": "connection",
+      "title": "Nouvelle demande de contact",
+      "body": "Fatou Ndiaye (Montréal) souhaite rejoindre votre réseau.",
+      "read": false,
+      "createdAt": "2026-11-18T11:30:00.000Z"
+    },
+    {
+      "id": "notif-2",
+      "memberId": "u-amina",
+      "kind": "registration",
+      "title": "Inscription confirmée",
+      "body": "Votre place pour Dakar Business Summit 2026 est confirmée (AE-DKR-8421).",
+      "read": true,
+      "createdAt": "2026-11-12T10:20:00.000Z"
+    },
+    {
+      "id": "notif-0c66df7a",
+      "memberId": "u-moussa",
+      "kind": "subscription",
+      "title": "Abonnement activé",
+      "body": "Abonnement Annuel actif jusqu’au 20/11/2027.",
+      "read": false,
+      "createdAt": "2026-11-20T01:30:57.412Z"
+    },
+    {
+      "id": "notif-b6fdce09",
+      "memberId": "u-moussa",
+      "kind": "registration",
+      "title": "Inscription confirmée",
+      "body": "Dakar Business Summit 2026 — Code AE-DAK-2478",
+      "read": false,
+      "createdAt": "2026-11-20T01:30:58.447Z"
+    },
+    {
+      "id": "notif-f2812297",
+      "memberId": "u-kwame",
+      "kind": "message",
+      "title": "Nouveau message chiffré",
+      "body": "Amina Diallo vous a envoyé un message (text).",
+      "read": false,
+      "createdAt": "2026-11-20T01:31:02.130Z"
+    }
+  ],
+  "reports": [
+    {
+      "id": "rep-1",
+      "reporterId": "u-kwame",
+      "targetType": "member",
+      "targetId": "u-chidi",
+      "reason": "Vérification souhaitée de la fiche entreprise avant mise en avant.",
+      "status": "open",
+      "createdAt": "2026-11-17T16:00:00.000Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "aud-1",
+      "actorId": "u-admin",
+      "actorEmail": "admin@africaentrepreneur.com",
+      "action": "PUBLISH_EVENT",
+      "target": "evt-dakar",
+      "details": "Publication de Dakar Business Summit 2026 (capacité 120)",
+      "createdAt": "2026-11-10T08:00:00.000Z"
+    }
+  ],
+  "blocks": [],
+  "sessions": [
+    {
+      "token": "e79515d8729d7f57cc58ad96b4eb75924b628fefb637a5c9fb68a20825f1c684",
+      "userId": "u-moussa",
+      "createdAt": "2026-11-20T01:30:35.695Z",
+      "expiresAt": "2026-12-04T01:30:35.695Z"
+    },
+    {
+      "token": "bf9cef45dd3d93c29cb6d5270bc3c4c84e365f0d6c7b0815852491fc148b4853",
+      "userId": "u-moussa",
+      "createdAt": "2026-11-20T01:30:52.728Z",
+      "expiresAt": "2026-12-04T01:30:52.728Z"
+    },
+    {
+      "token": "5438e7e1aa5ad12ad55738fc213ec248223770982f46d711ab9b9d0ea95a9268",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T01:31:01.660Z",
+      "expiresAt": "2026-12-04T01:31:01.661Z"
+    },
+    {
+      "token": "b496de4750a2d54ca9e33e06d2dd5242e6db75fa237796ebcfaf1eb098e5fb53",
+      "userId": "u-admin",
+      "createdAt": "2026-11-20T01:31:08.009Z",
+      "expiresAt": "2026-12-04T01:31:08.009Z"
+    },
+    {
+      "token": "fc85ed408b8f5f82049122a839a36a3d4e62c3da1189035662bcda0fc9803689",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T01:32:14.048Z",
+      "expiresAt": "2026-12-04T01:32:14.048Z"
+    },
+    {
+      "token": "823af58bc41ac82a087771da4a02386ccdad371341d09356175bdb996359b4c5",
+      "userId": "u-admin",
+      "createdAt": "2026-11-20T01:32:17.953Z",
+      "expiresAt": "2026-12-04T01:32:17.953Z"
+    },
+    {
+      "token": "623bbd354e664fb5fa4a781c8fa3bb081411d406451aa84bd4950b20015c865a",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T01:33:00.156Z",
+      "expiresAt": "2026-12-04T01:33:00.156Z"
+    },
+    {
+      "token": "af209aa23686fcef3fc0b549f28d32bba94482c1ca058a7387555c8887f2fd18",
+      "userId": "u-admin",
+      "createdAt": "2026-11-20T01:33:00.845Z",
+      "expiresAt": "2026-12-04T01:33:00.846Z"
+    },
+    {
+      "token": "da19db017588800d47f51d13832523ebf641de279871303fd459473bf8c21962",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T01:50:00.626Z",
+      "expiresAt": "2026-12-04T01:50:00.626Z"
+    },
+    {
+      "token": "ad30dd7e7e8ede042363276ec16207aa7b12f28e4c150a78bf3d9d278f282edf",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T02:51:08.293Z",
+      "expiresAt": "2026-12-04T02:51:08.293Z"
+    },
+    {
+      "token": "5ffb292b38feefd3c4491dc9455dade21dccc9005bad9a9aee90e3b6315e2b6c",
+      "userId": "u-orga",
+      "createdAt": "2026-11-20T10:00:52.870Z",
+      "expiresAt": "2026-12-04T10:00:52.870Z"
+    },
+    {
+      "token": "e561f715ff213a5455f70423ce2c9eefc20edb4f7427c5473937da8406b34a28",
+      "userId": "u-orga",
+      "createdAt": "2026-11-20T10:02:20.450Z",
+      "expiresAt": "2026-12-04T10:02:20.450Z"
+    },
+    {
+      "token": "08b9f31cd5d9cf237c31dcadbcaa77387398e79ac203b239196ba70f0b9b1fa7",
+      "userId": "u-orga",
+      "createdAt": "2026-11-20T10:02:44.040Z",
+      "expiresAt": "2026-12-04T10:02:44.040Z"
+    },
+    {
+      "token": "f37a2864dec23c0cd5f4cf54bfb3813c8e38ad98c2f69acc4c7d5473ecb4eaf4",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T10:02:48.186Z",
+      "expiresAt": "2026-12-04T10:02:48.186Z"
+    },
+    {
+      "token": "3324a902a251b66b3f20683999456571c77405ad462274e4cd965576982de801",
+      "userId": "u-orga",
+      "createdAt": "2026-11-20T10:03:46.940Z",
+      "expiresAt": "2026-12-04T10:03:46.941Z"
+    },
+    {
+      "token": "1b21f30a2709bcf082cb89f66d0999473e10064bc74d71ebf047ec6d59985a3c",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T10:03:51.316Z",
+      "expiresAt": "2026-12-04T10:03:51.316Z"
+    },
+    {
+      "token": "d5a37acc88053e356eee44beec8116ec7b15ff4f5bd66ed1c9921b4e56473e91",
+      "userId": "u-orga",
+      "createdAt": "2026-11-20T10:04:58.440Z",
+      "expiresAt": "2026-12-04T10:04:58.440Z"
+    },
+    {
+      "token": "cb8c078ff9d46a425c71b4bb1f4b2642c5e2b7fe7e3a00356690718be01d4f76",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T10:05:03.074Z",
+      "expiresAt": "2026-12-04T10:05:03.074Z"
+    },
+    {
+      "token": "2fcaf99336af307c14fff1f5b572371ed8ca54cde9a45f4f56abb449e1287c0e",
+      "userId": "u-orga",
+      "createdAt": "2026-11-20T10:06:06.231Z",
+      "expiresAt": "2026-12-04T10:06:06.231Z"
+    },
+    {
+      "token": "50938df1270e78156f5da158af7a25a1352b70bf4d2839cdb5cf7fdedfcbe18c",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T10:06:10.672Z",
+      "expiresAt": "2026-12-04T10:06:10.672Z"
+    },
+    {
+      "token": "673662049b0007dfd1a3d563e5e4265cc9230ffd0825323ccc87b3204f24218e",
+      "userId": "u-admin",
+      "createdAt": "2026-11-20T10:06:14.771Z",
+      "expiresAt": "2026-12-04T10:06:14.771Z"
+    },
+    {
+      "token": "ff8995edb601dab06fbd876bf6aa0a59267e0fc9e453e65cb504671d92a67307",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T10:07:33.390Z",
+      "expiresAt": "2026-12-04T10:07:33.390Z"
+    },
+    {
+      "token": "20fbdf77e0db05c8ad1fe983705be888ddf8d72e575eac3cc74512f33cc49140",
+      "userId": "u-admin",
+      "createdAt": "2026-11-20T10:07:37.430Z",
+      "expiresAt": "2026-12-04T10:07:37.430Z"
+    },
+    {
+      "token": "25ec29304d4422e237920666cc068a53c4a08e25373646884c07983bc22cdb42",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T10:13:46.935Z",
+      "expiresAt": "2026-12-04T10:13:46.935Z"
+    },
+    {
+      "token": "4925766fd911d89ba7068bb536accc34e316d2ade76f9b143e26245a60f343b8",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T10:14:51.205Z",
+      "expiresAt": "2026-12-04T10:14:51.205Z"
+    },
+    {
+      "token": "0e3932b634fda991b0d5b5ad63ca175c332e04279bd9244ddea98ddcea40acdc",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T14:52:32.137Z",
+      "expiresAt": "2026-12-04T14:52:32.137Z"
+    },
+    {
+      "token": "0349ed510f12584cf0baff9c3347ba8dac5cf50d9d592e56fad5b001ea83d659",
+      "userId": "u-amina",
+      "createdAt": "2026-11-20T16:29:23.033Z",
+      "expiresAt": "2026-12-04T16:29:23.033Z"
+    },
+    {
+      "token": "69a6005bd4079df1cb837940d053adca748772ad564df9e56ca28d5c3cf696dd",
+      "userId": "u-admin",
+      "createdAt": "2026-11-21T18:23:39.962Z",
+      "expiresAt": "2026-12-05T18:23:39.962Z"
+    },
+    {
+      "token": "8e804c4ea5c492b5fd2823c906640012e7b0d937bf4bbf2cb4306ae70e87a509",
+      "userId": "u-admin",
+      "createdAt": "2026-11-21T18:25:23.124Z",
+      "expiresAt": "2026-12-05T18:25:23.124Z"
+    },
+    {
+      "token": "c505a2ca3b4cc595fe8b69bd8bb3dfb22f5f795d05053aeeff1cd8909311e00d",
+      "userId": "u-admin",
+      "createdAt": "2026-11-21T18:26:30.965Z",
+      "expiresAt": "2026-12-05T18:26:30.965Z"
+    },
+    {
+      "token": "6028a65e8d52829d0d284a0bb303c841b289d47c304292a09aed5b5df2a266fc",
+      "userId": "u-amina",
+      "createdAt": "2026-11-22T12:25:16.523Z",
+      "expiresAt": "2026-12-06T12:25:16.523Z"
+    },
+    {
+      "token": "5adf537f39f5aaae6d561f5e23e36e3979be0aee2d0f4e1955d974aaa5247a01",
+      "userId": "u-amina",
+      "createdAt": "2026-11-22T12:26:42.532Z",
+      "expiresAt": "2026-12-06T12:26:42.532Z"
+    },
+    {
+      "token": "8696b99dbee336c8fe01147a21ca88ffac518e19af5343e5503eee18529020ec",
+      "userId": "u-amina",
+      "createdAt": "2026-11-22T12:28:03.014Z",
+      "expiresAt": "2026-12-06T12:28:03.014Z"
+    },
+    {
+      "token": "a0fd911c50c7800a7ab6dcf39063e12b52faf62dbb862283086a8a174ac71af1",
+      "userId": "u-admin",
+      "createdAt": "2026-11-22T12:28:20.201Z",
+      "expiresAt": "2026-12-06T12:28:20.201Z"
+    },
+    {
+      "token": "437f1719b2da9f29b5eddbb6d5e4cf2ff707314dfc3252c396dad7d1ef9c7754",
+      "userId": "u-amina",
+      "createdAt": "2026-11-22T12:28:55.912Z",
+      "expiresAt": "2026-12-06T12:28:55.912Z"
+    },
+    {
+      "token": "0036ca2ec7400117dabb5b873c8d702b89e63122396701c9cd38be3188582d14",
+      "userId": "u-admin",
+      "createdAt": "2026-11-22T12:29:13.479Z",
+      "expiresAt": "2026-12-06T12:29:13.479Z"
+    },
+    {
+      "token": "cd0ebd80e4e974e3e64462a5258c68b5269cef227bc77a88b86d3ab7e2404664",
+      "userId": "u-admin",
+      "createdAt": "2026-11-22T14:46:37.009Z",
+      "expiresAt": "2026-12-06T14:46:37.009Z"
+    },
+    {
+      "token": "2332c569c7aa728cdb3c29b3bb0e38f6d6b1c68a296400fec9a1b4ddbba73a47",
+      "userId": "u-admin",
+      "createdAt": "2026-11-23T10:11:09.878Z",
+      "expiresAt": "2026-12-07T10:11:09.878Z"
+    },
+    {
+      "token": "abdcc3a999910ab143a59cb2e184a30ac336ed6e024ee0aeb2c7535052f29ff4",
+      "userId": "u-admin",
+      "createdAt": "2026-11-23T10:13:09.463Z",
+      "expiresAt": "2026-12-07T10:13:09.463Z"
+    },
+    {
+      "token": "555ef871ef7771c1b37d3337fc133ba5529eb4a2b31ea6902fcd68b9749d97e3",
+      "userId": "u-admin",
+      "createdAt": "2026-11-23T10:20:11.865Z",
+      "expiresAt": "2026-12-07T10:20:11.865Z"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "opp-1",
+      "authorId": "u-amina",
+      "authorName": "Amina Diallo",
+      "companyName": "PayTeranga SAS",
+      "title": "Partenaires bancaires & distributeurs B2B UEMOA",
+      "category": "commercial_partner",
+      "publicSummary": "Recherche de correspondants financiers et agrégateurs PME au Sénégal, Mali et Côte d’Ivoire.",
+      "fullDetails": "PayTeranga ouvre son corridor EUR/XOF aux partenaires B2B agréés. Rémunération sur volume traité, API temps réel et support conformité BCEAO inclus. Dossier technique envoyé après prise de contact.",
+      "country": "Sénégal",
+      "sector": "Fintech",
+      "budgetRange": "Partenariat volume 50k–250k €/mois",
+      "status": "published",
+      "createdAt": "2026-11-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-2",
+      "authorId": "u-kwame",
+      "authorName": "Kwame Mensah",
+      "companyName": "Diaspora Ventures Partners",
+      "title": "Enveloppe co-investissement Amorçage Fintech & Logistique",
+      "category": "co_investment",
+      "publicSummary": "Tickets de 50 000 € à 300 000 € pour startups B2B génératrices de revenus en Afrique de l’Ouest.",
+      "fullDetails": "Thèse Q1 2027 : infrastructures logistiques du dernier kilomètre, paiements transfrontaliers et logiciels de gestion PME. Processus de due diligence en 4 semaines avec syndicat diaspora Londres/Paris.",
+      "country": "Royaume-Uni",
+      "sector": "Capital-Risque",
+      "budgetRange": "50 000 € – 300 000 €",
+      "status": "published",
+      "createdAt": "2026-11-17T14:30:00.000Z"
+    },
+    {
+      "id": "opp-3",
+      "authorId": "u-orga",
+      "authorName": "Seydou Keïta",
+      "companyName": "Réseau Agro-Industrie CI",
+      "title": "Fournisseurs d’unités solaires de séchage & transformation cacao/anacarde",
+      "category": "supplier",
+      "publicSummary": "Appel à équipementiers industriels et ingénieurs agroalimentaires pour 4 coopératives en Côte d’Ivoire.",
+      "fullDetails": "Besoin de 4 lignes de transformation modulaires autonomes (capacité 2 tonnes/jour), livraison port d’Abidjan T1 2027 avec contrat de maintenance 24 mois.",
+      "country": "Côte d’Ivoire",
+      "sector": "Agro-industrie",
+      "budgetRange": "80 000 € – 180 000 €",
+      "status": "published",
+      "createdAt": "2026-11-18T11:15:00.000Z"
+    },
+    {
+      "id": "opp-4",
+      "authorId": "u-fatou",
+      "authorName": "Fatou Ndiaye",
+      "companyName": "Atelier Atlas & Savoir-Faire",
+      "title": "Distribution Europe & Amérique du Nord — Artisanat & Design durable",
+      "category": "commercial_partner",
+      "publicSummary": "Partenariat export pour ateliers de céramique, textile bogolan et mobilier artisanal certifié.",
+      "fullDetails": "Sélection de 12 maîtres-artisans du Maroc, Sénégal, Ghana et Rwanda pour distribution B2B auprès de concept-stores à Paris, Londres, Montréal et New York.",
+      "country": "Maroc",
+      "sector": "Artisanat",
+      "budgetRange": "40 000 € – 150 000 €",
+      "status": "published",
+      "createdAt": "2026-11-19T10:00:00.000Z"
+    },
+    {
+      "id": "opp-5",
+      "authorId": "u-chidi",
+      "authorName": "Chidi Okonkwo",
+      "companyName": "BuildAfrica Consortium",
+      "title": "Appel à consortium BTT & Architecture bioclimatique — Pôle Diamniadio",
+      "category": "call_for_projects",
+      "publicSummary": "Recherche bureaux d’architecture, ingénieurs BTT et fournisseurs de matériaux bas-carbone.",
+      "fullDetails": "Programme de 3 immeubles tertiaires modulaires intégrant brique de terre compressée et refroidissement passif en Afrique de l’Ouest et Centrale.",
+      "country": "Cameroun",
+      "sector": "BTT",
+      "budgetRange": "250 000 € – 900 000 €",
+      "status": "published",
+      "createdAt": "2026-11-20T09:30:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "id": "grp-fintech",
+      "name": "Club Fintech & Paiements UEMOA",
+      "sector": "Fintech",
+      "description": "Échanges entre fondateurs, banques partenaires et équipes conformité BCEAO/COBAC.",
+      "memberCount": 148
+    },
+    {
+      "id": "grp-export",
+      "name": "Corridor Export Afrique — Europe",
+      "sector": "Agro-industrie",
+      "description": "Logistique, certifications export, acheteurs européens et financements de campagne.",
+      "memberCount": 92
+    },
+    {
+      "id": "grp-btt-arch",
+      "name": "BTT, Architecture & Design Urbain",
+      "sector": "BTT",
+      "description": "Bureaux d’études, promoteurs immobiliers, architectes et maîtres d’ouvrage Afrique & Diaspora.",
+      "memberCount": 114
+    },
+    {
+      "id": "grp-artisanat",
+      "name": "Artisanat, Design & Événementiel",
+      "sector": "Artisanat",
+      "description": "Créateurs, maisons d’artisanat, agences événementielles et distributeurs internationaux.",
+      "memberCount": 126
+    }
+  ],
+  "groupMessages": [
+    {
+      "id": "gmsg-1",
+      "groupId": "grp-fintech",
+      "authorId": "u-amina",
+      "authorName": "Amina Diallo",
+      "authorHeadline": "CEO · PayTeranga SAS",
+      "text": "Bienvenue dans le cercle Fintech ! Nous partageons ici nos retours sur les intégrations API et les rencontres du Dakar Summit.",
+      "createdAt": "2026-11-18T10:00:00.000Z"
+    },
+    {
+      "id": "gmsg-2",
+      "groupId": "grp-fintech",
+      "authorId": "u-kwame",
+      "authorName": "Kwame Mensah",
+      "authorHeadline": "Associé · Diaspora Ventures Partners",
+      "text": "Nous organiserons une session Q&A sur les tours pre-seed diaspora la semaine prochaine.",
+      "createdAt": "2026-11-18T12:15:00.000Z"
+    },
+    {
+      "id": "gmsg-3",
+      "groupId": "grp-export",
+      "authorId": "u-orga",
+      "authorName": "Seydou Keïta",
+      "authorHeadline": "Organisateur · Réseau Agro-Industrie CI",
+      "text": "Les dossiers des 4 coopératives partenaires pour le webinaire Abidjan AgriTech sont prêts pour les membres inscrits.",
+      "createdAt": "2026-11-18T15:40:00.000Z"
+    }
+  ],
+  "subscriptionLogs": [
+    {
+      "id": "slog-seed-2",
+      "memberId": "u-kwame",
+      "eventType": "activated",
+      "plan": "monthly",
+      "details": "Abonnement Mensuel activé (REC-2026-9104)",
+      "createdAt": "2026-09-12T10:00:00.000Z"
+    },
+    {
+      "id": "slog-seed-1",
+      "memberId": "u-amina",
+      "eventType": "activated",
+      "plan": "annual",
+      "details": "Abonnement Annuel activé (REC-2026-8841)",
+      "createdAt": "2026-09-01T10:00:00.000Z"
+    }
+  ],
+  "scannedBadges": []
+}
